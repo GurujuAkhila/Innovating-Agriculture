@@ -46,6 +46,8 @@ DESCRIPTION OF PROJECT:
 2.Crop Recommender:
 
   It uses ‘data set’, A data set contains soil parameters data like N, P, K, pH, moisture content,   humidity, temperature. Crop Recommender compares the data given against the dataset and suggests   the best crops that can be grown with the help sensors like soil pH, soil moisture and soil         temperature senor. Here Gradient Boosting Algorithm is used.
+  ![image](https://github.com/GurujuAkhila/Innovating-Agriculture/assets/125969582/fd1c7faf-e936-4852-9179-1228b248a0ba)
+
   
 3.Fertilizer Recommender
 
