@@ -1,21 +1,21 @@
 # Innovating-Agriculture
 Technologically advanced Approach to Crop Management and Protection using IoT and AI
-Agriculture is one of the most important resources for mankind. This project is about making the agriculture easier and effective by using the trending technologies like Artificial Intelligence (AI) and Internet of Things (IoT). 
-The proposed model is designed in a such a way that it will let the farmer to know about the proper crop to grow that would give him the best yield according to soil pH and also helps in the crop monitoring by providing the status of the nutrients in the soil.
+Agriculture is one of the most important resources for mankind. This project is about making agriculture easier and more effective using trending technologies like Artificial Intelligence (AI) and the Internet of Things (IoT). 
+The proposed model is designed in such a way that it will let the farmer know about the proper crop to grow that would give him the best yield according to soil pH and also helps in crop monitoring by providing the status of the nutrients in the soil.
 
 DESCRIPTION OF PROJECT:
 
-1.Soil Testing:
+1. Soil Testing:
 
- Using IoT sensors like Temperature sensor, Humidity sensor, NPK sensor interfacing with Raspberry   Pi, the parameters of the soil are measured and data is sent to user through mail.
+ Using IoT sensors like Temperature sensor, Humidity sensor, NPK sensor interfacing with Raspberry   Pi, the parameters of the soil are measured and data is sent to the user through mail.
   
-  INTERFACING SOIL MOSITURE SENSOR WITH RASPBERRY PI:
+  INTERFACING SOIL MOISTURE SENSOR WITH RASPBERRY PI:
   
   ![image](https://user-images.githubusercontent.com/125969582/220337959-6374a650-67f6-464b-9fdb-fd0bd4a4bda9.png)
   
   OUTPUT:
   
-  (i) When there is need of water:
+  (i) When there is a need of water:
   
   ![image](https://user-images.githubusercontent.com/125969582/220339216-49847f2f-1c6e-43c6-8fab-2dd99740b599.png)
   
@@ -43,9 +43,9 @@ DESCRIPTION OF PROJECT:
   
   ![image](https://user-images.githubusercontent.com/125969582/220338969-4dab3410-c63b-4f1d-9df3-46661240156f.png)
 
-2.Crop Recommender:
+2. Crop Recommender:
 
-  It uses ‘data set’, A data set contains soil parameters data like N, P, K, pH, moisture content,   humidity, temperature. Crop Recommender compares the data given against the dataset and suggests   the best crops that can be grown with the help sensors like soil pH, soil moisture and soil         temperature senor. Here Gradient Boosting Algorithm is used.
+  It uses a ‘data set’, A data set contains soil parameters data like N, P, K, pH, moisture content,   humidity, and temperature. Crop Recommender compares the data given against the dataset and suggests   the best crops that can be grown with the help of sensors like soil pH, soil moisture, and soil temperature sensor. Here Gradient KNN is used.
   ![image](https://github.com/GurujuAkhila/Innovating-Agriculture/assets/125969582/fd1c7faf-e936-4852-9179-1228b248a0ba)
 
   
